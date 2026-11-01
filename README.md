@@ -1,6 +1,6 @@
 # GATE CSE 2027 Resource Hub
 
-A free, open, and publicly accessible collection of study material for **GATE Computer Science & Information Technology (CS & IT) 2027**, curated and organized by **[Manish Tiwari](https://github.com/YOUR_USERNAME)**.
+A free, open, and publicly accessible collection of study material for **GATE Computer Science & Information Technology (CS & IT) 2027**, curated and organized by **[Manish Tiwari](https://github.com/manishtiwari2)**.
 
 > **Please read first: curated, not authored.**
 > I did **not** write, create, or own any of the notes or question papers in this repository.
