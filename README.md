@@ -2,6 +2,8 @@
 
 A free, open, and publicly accessible collection of study material for **GATE Computer Science & Information Technology (CS & IT) 2027**, curated and organized by **[Manish Tiwari](https://github.com/manishtiwari2)**.
 
+**[Join the WhatsApp channel](https://whatsapp.com/channel/0029VbDtKw1GE56uxcHsMx3Q)** for updates and new resources.
+
 > **Please read first: curated, not authored.**
 > I did **not** write, create, or own any of the notes or question papers in this repository.
 > Every resource was created by the author or organization named on its folder and in [ATTRIBUTION.md](ATTRIBUTION.md). All rights remain with them.
@@ -101,6 +103,10 @@ Spotted a wrong attribution, a broken file, or a missing author credit? [Open an
 ## Copyright and takedown
 
 If you created any material here and want it credited differently or removed, please read [NOTICE.md](NOTICE.md) and open an issue or email the contact listed there. Requests are honored promptly.
+
+## Stay updated
+
+Join the curator's **[WhatsApp channel](https://whatsapp.com/channel/0029VbDtKw1GE56uxcHsMx3Q)** for updates on new resources added to this hub and other GATE 2027 preparation updates.
 
 ## Curator
 
